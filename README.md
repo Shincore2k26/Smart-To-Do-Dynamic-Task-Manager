@@ -18,4 +18,4 @@
 ## How to Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/smart-todo.git
+   git clone https://github.com/Shincore2k26/Smart-To-Do-Dynamic-Task-Manager.git
