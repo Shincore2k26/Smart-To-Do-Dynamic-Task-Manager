@@ -1,5 +1,4 @@
 # Smart-To-Do-Dynamic-Task-Manager
-# Smart To-Do: Dynamic Task Manager
 
 **Smart To-Do** is a modern To-Do web app built with **Python (Flask)**, **HTML/CSS**, and **JavaScript**. It allows users to manage tasks efficiently in a dynamic, interactive interface.
 
